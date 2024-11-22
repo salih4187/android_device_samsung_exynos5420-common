@@ -25,6 +25,7 @@ DEVICE_PACKAGE_OVERLAYS += device/samsung/exynos5420-common/overlay
 
 # Audio
 PRODUCT_PACKAGES += \
+    audio.primary.universal5420 \
     audio.a2dp.default \
     audio.usb.default \
     audio.r_submix.default \
